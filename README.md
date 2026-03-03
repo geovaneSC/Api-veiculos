@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com o objetivo de construir uma API RESTful utiliz
 
 <h2>Linguagens de Programação Usadas</h2>
 <ul>
-  <li>PHP (7.4 ou superior) → linguagem principal usada no Slim Framework.</li>
+  <li>PHP → linguagem principal usada no Slim Framework.</li>
   <li>SQL (MySQL) → usado para criação e manipulação de tabelas.</li>
   <li>XML → para respostas em formato XML.</li>
   <li>JSON → formato de resposta para APIs RESTful.</li>
